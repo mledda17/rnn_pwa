@@ -15,7 +15,7 @@ _All authors are with the DIEE, University of Cagliari, 09123 Cagliari, Italy._
 ---
 
 ## 📝 Abstract
-> This paper proves the exact equivalence between ReLU-based recurrent neural networks (RNNs) and discrete-time continuous piecewise-affine (CPWA) dynamical systems. We show that every ReLU–RNN induces a finite polyhedral partition of the state–input space with affine dynamics on each region, and we provide a constructive procedure to derive the corresponding CPWA representation. Conversely, we prove that any CPWA system admits an exact ReLU–RNN realization, although only the existence of such a mapping is established without an explicit construction. The equivalence is numerically validated by comparing the trajectories of a two-layer ReLU–RNN and its corresponding CPWA model, confirming perfect agreement.
+> This paper develops computational procedures to translate between ReLU recurrent neural networks (RNNs) and continuous piecewise-affine (CPWA) dynamical systems. We show that every $\ReLU$ RNN induces a finite polyhedral partition of the state–input space with affine dynamics on each region and provide an explicit constructive algorithm to compute its corresponding CPWA representation. Conversely, we show that every CPWA dynamical system admits an exact realization as a ReLU RNN and provide a constructive procedure to compute the associated network parameters. The computational procedures are illustrated by numerical examples for both directions, showcasing exactly matching trajectories and validating the implementation of the proposed transformations.
 
 
 ## 🚀 Getting Started
