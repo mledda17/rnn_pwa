@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![IFAC World Congress](https://img.shields.io/badge/Accepted%20@-IFAC%20World%20Congress%202026-blue)
 
-Official code for the paper: **"Recurrent Neural Networks with ReLU activations are Continuous Piecewise Affine Systems Dynamical Systems and Viceversa"**
+Official code for the paper: **"On the Computation of ReLU-based RNNs equivalent to CPWA models of Dynamical Systems and vice versa"**
 
 Authors:
 - Marco Ledda, PhD Student
@@ -31,7 +31,7 @@ _All authors are with the DIEE, University of Cagliari, 09123 Cagliari, Italy._
 First of all, you will need to clone this repository. To do this, run the following command:
 
 ```bash
-git clone https://github.com/mledda17/recurrent_nn_pwa.git
+git clone https://github.com/mledda17/rnn_pwa.git
 ```
 
 ### 2. Install requirements and dependecies
@@ -49,4 +49,4 @@ python scripts/simulate_compare.py
 
 The results of the experiments will be put in a new folder "scripts/plots".
 
-Official code for the paper: **"Recurrent Neural Networks with ReLU activations are Continuous Piecewise Affine Systems Dynamical Systems and Viceversa"**  
+Official code for the paper: **"On the Computation of ReLU-based RNNs equivalent to CPWA models of Dynamical Systems and vice versa"**  
