@@ -1,5 +1,4 @@
-# Recurrent Neural Networks with ReLU activations are Continuous Piecewise Affine Systems Dynamical Systems and Viceversa
-
+# On the Computation of ReLU-based RNNs equivalent to CPWA models of Dynamical Systems and vice versa
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![IFAC World Congress](https://img.shields.io/badge/Accepted%20@-IFAC%20World%20Congress%202026-blue)
 
