@@ -15,7 +15,7 @@ _All authors are with the DIEE, University of Cagliari, 09123 Cagliari, Italy._
 ---
 
 ## 📝 Abstract
-> This paper develops computational procedures to translate between ReLU recurrent neural networks (RNNs) and continuous piecewise-affine (CPWA) dynamical systems. We show that every $\ReLU$ RNN induces a finite polyhedral partition of the state–input space with affine dynamics on each region and provide an explicit constructive algorithm to compute its corresponding CPWA representation. Conversely, we show that every CPWA dynamical system admits an exact realization as a ReLU RNN and provide a constructive procedure to compute the associated network parameters. The computational procedures are illustrated by numerical examples for both directions, showcasing exactly matching trajectories and validating the implementation of the proposed transformations.
+> This paper develops computational procedures to translate between ReLU recurrent neural networks (RNNs) and continuous piecewise-affine (CPWA) dynamical systems. We show that every ReLU RNN induces a finite polyhedral partition of the state–input space with affine dynamics on each region and provide an explicit constructive algorithm to compute its corresponding CPWA representation. Conversely, we show that every CPWA dynamical system admits an exact realization as a ReLU RNN and provide a constructive procedure to compute the associated network parameters. The computational procedures are illustrated by numerical examples for both directions, showcasing exactly matching trajectories and validating the implementation of the proposed transformations.
 
 
 ## 🚀 Getting Started
